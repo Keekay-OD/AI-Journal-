@@ -86,3 +86,6 @@ while True:
             engine="davinci", prompt=prompt + f"You: {user_input}", max_tokens=1024
         ).choices[0].text.strip()
     print(f"AI: {response}")
+
+
+    
