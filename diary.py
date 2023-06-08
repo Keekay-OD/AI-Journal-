@@ -2,6 +2,9 @@ import openai
 import csv
 import os
 
+
+#first commit
+
 # Set up OpenAI API credentials
 openai.api_key = "your_api_key_here"
 
